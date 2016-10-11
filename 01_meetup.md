@@ -4,4 +4,6 @@ title: Meetup
 permalink: /meetup
 ---
 
-yada yada yada
+Join us on [meetup.com](http://meetup.com/vienna-rb).
+
+
