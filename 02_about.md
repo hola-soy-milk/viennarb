@@ -34,7 +34,8 @@ class Vienna
 
   def to_s
     where = where?.to_a.compact.join(" ")
-   "The next vienna.rb takes place at #{where} and starts at #{when?}. For more see: #{what_and_why?}"
+   "The next vienna.rb takes place at #{where} and starts at #{when?}."
+   "For more see: #{what_and_why?}"
   end
 
 
