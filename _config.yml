@@ -1,0 +1,13 @@
+
+title: Vienna.rb - User group for Viennese rubyists
+description: organizing meetups for Ruby and Rails developers in and around Vienna, Austria.
+
+### let's use the minima theme (see https://github.com/jekyll/minima)
+
+theme: minima
+
+
+### exclude the instructions / write-up in the README.md
+
+exclude:
+- README.md
