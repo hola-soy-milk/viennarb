@@ -3,7 +3,7 @@ title: Vienna.rb - User group for Viennese rubyists
 description: organizing meetups for Ruby and Rails developers in and around Vienna, Austria.
 
 baseurl: /viennarb
-url:  https://geraldb.github.io/viennarb
+url:  https://geraldb.github.io
 
 
 ### let's use the minima theme (see https://github.com/jekyll/minima)
